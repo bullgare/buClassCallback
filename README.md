@@ -9,3 +9,6 @@ Usage is
 ```
 <div class="my-class" bu-class-callback="{'animate': {on: somethingHappened, after: 'doSomething()'}}"></div>
 ```
+
+This is a little demo
+http://jsbin.com/qomiw/1/edit

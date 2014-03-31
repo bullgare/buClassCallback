@@ -2,7 +2,7 @@
 {
 	"use strict";
 
-var directives = angular.module('BuClassCallbackDirective', []).
+var directives = angular.module('BuClassCallbackDirective', ['ngAnimate']).
 	/**
 	 * It can be used like
 	 * bu-class-callback="{'_animate' : {on: commentsAreShown, after: 'f()'}}"
